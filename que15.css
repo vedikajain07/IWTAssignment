@@ -1,0 +1,22 @@
+body{
+    background-color:#0c3161;
+    background-image: linear-gradient(to right,rgba(175,22,24,0.7),rgba(255,236,255,0.7),rgba(255,120,450,0.4)),url("images/25.jpeg");
+    background-size:cover;
+    padding-left: 20px;
+}
+h1{
+    background-color:rgba(4, 235, 4, 0.5);
+    font-size:30px;
+    color:black
+}
+h2{
+    background-color:rgba(8, 175, 8, 0.5);
+    color:black;
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+    color:blue;
+    line-height:2;
+}
+
